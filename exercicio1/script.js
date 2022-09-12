@@ -1,5 +1,5 @@
 let coxinha = prompt("Deseja comer uma coxinha? S ou N").toUpperCase()
-let conta = 2.50
+let conta = 0
 
 while(coxinha === "S"){
     coxinha = prompt ("Deseja comer mais uma coxinha?").toUpperCase()
